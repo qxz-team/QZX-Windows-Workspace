@@ -64,7 +64,7 @@ Use this address in any Remote Desktop client to connect.
 
 ## ⚙️ Required Playit Tunnel Configuration
 
-Make sure to configure your tunnel correctly in the [Playit.gg dashboard](https://playit.gg/app):
+Make sure to configure your tunnel correctly in the [Playit.gg dashboard](https://playit.gg/):
 
 * **Type:** TCP
 * **Forward To:** `127.0.0.1:3389`
